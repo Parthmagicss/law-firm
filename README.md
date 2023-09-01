@@ -1,8 +1,6 @@
-# Sample Law Firm Website
+# Law Firm
 
-Learn how to build a completely custom website using WordPress, PHP, HTML, and CSS. You will learn how set up your local server, create the design, and build a custom WordPress theme that works with Elementor. 
+Php webpage with the help of Wordpress and Html with css to make a mock website for practice
 
-A sample law firm website created for Free Code Camp (https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-
-Youtube URL: https://www.youtube.com/watch?v=IPo71JPKUmg
+to follow me connect in Linkedin : https://www.linkedin.com/in/parthib15/
 
